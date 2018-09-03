@@ -1,0 +1,23 @@
+{
+  "name": "node-rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brendon1911/node-rest-shop.git"
+  },
+  "author": "Brendon Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brendon1911/node-rest-shop/issues"
+  },
+  "homepage": "https://github.com/Brendon1911/node-rest-shop#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
